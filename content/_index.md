@@ -1,5 +1,5 @@
 ---
 heading: "Hi, I'm Lakshya"
-subheading: "A python expert turned javascript developer. Welcome to my website and have fun."
+subheading: "I'm a junior python developer who loves writing blogs and talking at conferences."
 handle: "lakshyakhatri_"
 ---
