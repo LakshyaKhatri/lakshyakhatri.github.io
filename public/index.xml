@@ -5,6 +5,8 @@
     <link>http://lakshya.codes/</link>
     <description>Recent content on Lakshya Khatri</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://lakshya.codes/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Tue, 22 Sep 2020 12:48:32 +0530</lastBuildDate><atom:link href="http://lakshya.codes/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

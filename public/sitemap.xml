@@ -3,15 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://lakshya.codes/categories/</loc>
+    <loc>http://lakshya.codes/</loc>
+    <lastmod>2020-09-22T12:48:32+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://lakshya.codes/</loc>
+    <loc>http://lakshya.codes/about/</loc>
+    <lastmod>2020-09-22T12:48:32+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lakshya.codes/tags/about/</loc>
+    <lastmod>2020-09-22T12:48:32+05:30</lastmod>
   </url>
   
   <url>
     <loc>http://lakshya.codes/tags/</loc>
+    <lastmod>2020-09-22T12:48:32+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lakshya.codes/categories/</loc>
   </url>
   
 </urlset>
