@@ -66,3 +66,8 @@ Get Book Information | `/api/book/\<book-id\>/` | Scrapped book information.
 
 ## Client Side Application
 If you want to see how this REST API can be used at client side then checkout <a href="https://github.com/LakshyaKhatri/Bookshelf-Reader" target="_blank">Bookshelf Reader Android Application</a>
+
+<br>
+<br>
+
+-----------------------------------------------------------

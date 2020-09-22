@@ -31,3 +31,8 @@ Just download and install this [APK file](https://github.com/LakshyaKhatri/Books
 
 ## Contributing
 The whole framework was made for fun only. I used the general image processing techniques for making things work. I request everyone viewing this post to kindly help me improve this project by implementing it using machine learning agorithms (I have looked at some NNs that might do the job).
+
+<br>
+<br>
+
+-----------------------------------------------------------

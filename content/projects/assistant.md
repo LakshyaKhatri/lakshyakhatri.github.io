@@ -1,8 +1,8 @@
 ---
 title: "Assistant"
-date: 2020-09-23T00:15:45+05:30
+date: 2017-11-09T00:15:45+05:30
 slug: "assistant"
-description: ""
+description: "A personal desktop assistant for Linux and Windows written purely in C++"
 keywords: []
 tags: []
 draft: true
