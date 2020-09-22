@@ -10,6 +10,8 @@ math: false
 toc: false
 ---
 
+<h2><a href="https://github.com/LakshyaKhatri/Bookshelf-Reader-API/" target="_blank">GitHub Repo</a></h2>
+
 A browsable REST API built using Django REST Framework for recognizing book spines in an image.
 
 <br>
@@ -19,7 +21,7 @@ Uploaded Image        | Result
 :--------------------:|:---------------------------:
 <img src="https://raw.githubusercontent.com/LakshyaKhatri/Bookshelf-Reader-API/master/assets/spines.jpg" alt="Uploaded Image" width="300" />|<img src="https://raw.githubusercontent.com/LakshyaKhatri/Bookshelf-Reader-API/master/assets/drawn_spines.jpeg" alt="Resulted Image" width="300" />
 
-# Installation
+## Installation
 * To run this project locally, clone or download this repository.
 * Install requirements using:
     ```
@@ -35,7 +37,7 @@ Uploaded Image        | Result
     python3 manage.py runserver
     ```
 
-# Usage
+## Usage
 Add these URLs after your landing URL:
 
 <br>
@@ -47,7 +49,7 @@ Upload Bookshelf Image  | `/api/create-bookshelf/` | ID for referring the upload
 Spine Line Drawn Image  | `/api/bookshelf/\<bookshelf-id\>/` | Spine line drawn image
 Cropped Spines          | `/api/spines/\<bookshelf-id\>/` | URLS of the cropped spine images
 
-# Further Implementation
+## Further Implementation
 
 This project contains scrappers to scrap the information of all the books recognized in the spine image. Recognized spine can be sent for text recognition and then the recieved text can be uploaded to below URL's for scrapping the book's information.
 
@@ -62,5 +64,5 @@ Function                | url                    | Return
 Upload book title text for scrapping information  | `/api/add-book/` | ID of the created Book object (Inside the Response Header)
 Get Book Information | `/api/book/\<book-id\>/` | Scrapped book information.
 
-# Client Side Application
-If you want to see how this REST API can be used at client side then checkout [Bookshelf Reader Android Application](https://github.com/LakshyaKhatri/Bookshelf-Reader)
+## Client Side Application
+If you want to see how this REST API can be used at client side then checkout <a href="https://github.com/LakshyaKhatri/Bookshelf-Reader" target="_blank">Bookshelf Reader Android Application</a>
