@@ -7,6 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Tue, 22 Sep 2020 12:48:32 +0530</lastBuildDate><atom:link href="http://lakshya.codes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Aug 2020 17:04:35 +0530</lastBuildDate><atom:link href="http://lakshya.codes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://lakshya.codes/contact/</link>
+      <pubDate>Tue, 22 Sep 2020 17:32:03 +0530</pubDate>
+      
+      <guid>http://lakshya.codes/contact/</guid>
+      <description>  (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id=&#34;typef_orm&#34;, b=&#34;https://embed.typeform.com/&#34;; if(!gi.call(d,id)) { js=ce.call(d,&#34;script&#34;); js.id=id; js.src=b+&#34;embed.js&#34;; q=gt.call(d,&#34;script&#34;)[0]; q.parentNode.insertBefore(js,q) } })()  powered by Typeform  </description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>http://lakshya.codes/about/</link>
+      <pubDate>Tue, 22 Sep 2020 12:48:32 +0530</pubDate>
+      
+      <guid>http://lakshya.codes/about/</guid>
+      <description>&amp;ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>My Journey as an MLH Fellow</title>
+      <link>http://lakshya.codes/blog/my-journey-as-an-mlh-fellow/</link>
+      <pubDate>Fri, 07 Aug 2020 17:04:35 +0530</pubDate>
+      
+      <guid>http://lakshya.codes/blog/my-journey-as-an-mlh-fellow/</guid>
+      <description>What is MLH Fellowship If you haven&amp;rsquo;t heard about MLH Fellowship Program yet, a brief introduction for you:
+It is 3 months remote internship program introduced by a super cool organization called Major League Hacking in partnership with other organizations like GitHub, Facebook Developer Circles, etc. During this internship, the students (called Fellows) are placed in different groups (called Pods) consisting of 10 fellows each which contribute to the opensource projects on GitHub.</description>
+    </item>
+    
   </channel>
 </rss>

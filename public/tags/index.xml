@@ -6,16 +6,6 @@
     <description>Recent content in Tags on Lakshya Khatri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© {year}</copyright>
-    <lastBuildDate>Tue, 22 Sep 2020 12:48:32 +0530</lastBuildDate><atom:link href="http://lakshya.codes/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>about</title>
-      <link>http://lakshya.codes/tags/about/</link>
-      <pubDate>Tue, 22 Sep 2020 12:48:32 +0530</pubDate>
-      
-      <guid>http://lakshya.codes/tags/about/</guid>
-      <description></description>
-    </item>
-    
+    <copyright>© {year}</copyright><atom:link href="http://lakshya.codes/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
