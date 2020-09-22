@@ -1,107 +1,145 @@
 <!DOCTYPE html>
 <html lang="en-us">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    
-    <title></title>
-    
-    <meta name="description" content="">
-    <meta name="author" content="">
-    
-    <link href="http://lakshya.codes/an-old-hope.min.css" rel="stylesheet">
-    <link href="http://lakshya.codes/style.css" rel="stylesheet">
-    <link href="http://lakshya.codes/custom.css" rel="stylesheet">
-    
-    <link rel="apple-touch-icon" href="http://lakshya.codes/apple-touch-icon.png">
-    <link rel="icon" href="http://lakshya.codes/favicon.ico">
-    <meta name="generator" content="Hugo 0.75.1" />
-    
-    <link rel="alternate" type="application/rss+xml" href="http://lakshya.codes/index.xml" title="" />
-    
-    
-    <script>
-      function setTheme() {
-        if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-          document.body.classList.add('dark');
-          return;
-        }
 
-        const time = new Date();
-        const prev = localStorage.getItem('date');
-        const date = String(time.getMonth() + 1) + '.' + String(time.getDate());
+<head>
+	<meta name="generator" content="Hugo 0.75.1" />
+  <title>Lakshya Khatri</title>
 
-        const now = time.getTime();
-        let sunrise;
-        let sunset;
+  <meta charset="UTF-8">
+  <meta name="language" content="en">
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-        function setBodyClass() {
-          if (now > sunrise && now < sunset) return;
-          document.body.classList.add('dark');
-        }
+  
+  
 
-        if (date !== prev) {
-          fetch('https://api.ipgeolocation.io/astronomy?apiKey=5ed37d85103e4defa5df4c5298ed5215')
-            .then((res) => res.json())
-            .then((data) => {
-              sunrise = data.sunrise.split(':').map(Number);
-              sunset = data.sunset.split(':').map(Number);
-            })
-            .catch(() => {
-              sunrise = [7, 0];
-              sunset = [19, 0];
-            })
-            .finally(() => {
-              sunrise = time.setHours(sunrise[0], sunrise[1], 0);
-              sunset = time.setHours(sunset[0], sunset[1], 0);
-              setBodyClass();
-              localStorage.setItem('sunrise', sunrise);
-              localStorage.setItem('sunset', sunset);
-            });
-          localStorage.setItem('date', date);
-        } else {
-          sunrise = Number(localStorage.getItem('sunrise'));
-          sunset = Number(localStorage.getItem('sunset'));
-          setBodyClass();
-        }
-      }
-    </script>
-  </head>
-  <body class="list home">
-    <script>
-      setTheme();
-    </script>
-    <header class="header">
-      <nav class="nav">
-        <h1 class="logo"><a href="http://lakshya.codes/"></a></h1>
-      </nav>
-    </header>
-    <main class="main">
+  <link rel="shortcut icon" type="image/png" href="/favicon.ico" />
 
-<article class="first-entry">
-  <header class="entry-header">
-    <h2>Hello World</h2>
-  </header>
-  <section class="entry-content">
-   <p>...</p>
-  </section>
-  <footer class="entry-footer">
-    <time>September 21, 2020</time>
-  </footer>
-  <a class="entry-link" href="http://lakshya.codes/posts/hello-world/"></a>
-</article></main>
-<footer class="footer">
-  <span>&copy; 2020 <a href="http://lakshya.codes/"></a></span>
-  <span>&middot;</span>
-  <span>Powered by <a href="https://gohugo.io/" rel="noopener" target="_blank">Hugo️️</a>️</span>
-  <span>&middot;</span>
-  <span>Theme️ <a href="https://github.com/nanxiaobei/hugo-paper" rel="noopener" target="_blank">Paper</a></span>
-</footer>
-<script src="http://lakshya.codes/highlight.min.js"></script>
-<script>
-  hljs.initHighlightingOnLoad();
-</script>
+  
+  
+    
+ 
+  
+  
+  
+  
+  
+  
+    
+    <link type="text/css" rel="stylesheet" href="/css/about.min.faa0cdf2d211fbe1d8399c340d898781f94b8e9a9d0e53657a5b8bf7c13e990b.css" integrity="sha256-&#43;qDN8tIR&#43;&#43;HYOZw0DYmHgflLjpqdDlNleluL98E&#43;mQs="/>
+  
+    
+    <link type="text/css" rel="stylesheet" href="/css/custom.min.e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css" integrity="sha256-47DEQpj8HBSa&#43;/TImW&#43;5JCeuQeRkm5NMpJWZG3hSuFU="/>
+  
+  
+   
+  <link rel="alternate" type="application/rss+xml+xml" href="http://lakshya.codes/index.xml" title="Lakshya Khatri" /> 
+   
+   
+    
+
+<script type="application/ld+json">
+  
+    { 
+      "@context": "http://schema.org", 
+      "@type": "WebSite", 
+      "url": "http:\/\/lakshya.codes\/",
+      "name": "Lakshya Khatri",
+      "author": {
+        "@type": "Person",
+        "name": ""
+      },
+      "description": ""
+    }
+  
+  </script>
+</head>
+
+<body>
+  <div class="burger__container">
+  <div class="burger" aria-controls="navigation" aria-label="Menu">
+    <div class="burger__meat burger__meat--1"></div>
+    <div class="burger__meat burger__meat--2"></div>
+    <div class="burger__meat burger__meat--3"></div>
+  </div>
+</div>
+ 
+
+  <nav class="nav" id="navigation">
+  <ul class="nav__list">
+    
+    
+      <li>
+        <a  href="/about/">about hugo</a>
+      </li>
+    
+      <li>
+        <a  class="active"
+         href="/getting-started/">getting started</a>
+      </li>
+    
+  </ul>
+</nav>
+
+
+  <main>
+    
+
+<div class="splash-container">
+  <div class="splash">
+    
+    <h1><span class="fancy">.</span></h1>
+    
+    <h2>
+      
+    </h2>
+    
+
+    
+
+
+<div class="social-icons">
+  
+     
+    
+  
+     
+    
+  
+     
+    
+  
+     
+    
+  
+     
+    
+  
+     
+    
+  
+     
+    
+  
+     
+    
+     
+</div>
+
+  </div>
+</div>
+
+
+  </main>
+
+   
+
+  
+  <script src="/js/index.min.49e4d8a384357d9b445b87371863419937ede9fa77737522ffb633073aebfa44.js" integrity="sha256-SeTYo4Q1fZtEW4c3GGNBmTft6fp3c3Ui/7YzBzrr&#43;kQ=" crossorigin="anonymous"></script>
+   
 </body>
-</html>
 
+</html>
