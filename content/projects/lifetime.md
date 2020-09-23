@@ -5,7 +5,7 @@ slug: "lifetime"
 description: ""
 keywords: []
 tags: []
-draft: true
+draft: false
 math: false
 toc: false
 ---

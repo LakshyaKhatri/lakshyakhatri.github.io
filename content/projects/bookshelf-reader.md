@@ -5,7 +5,7 @@ slug: "bookshelf-reader"
 description: "An android application that provides information for books kept in a bookshelf by recognizing their spines from images."
 keywords: ["book", "spines", "bookshelf-reader", "android", "book-spine", "spine-recognition", "book-information", "book-info", "book-scanning", "spine-detection", "book-detection", "book-spine-detection"]
 tags: []
-draft: true
+draft: false
 math: false
 toc: false
 ---

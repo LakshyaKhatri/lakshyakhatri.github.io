@@ -5,7 +5,7 @@ slug: "bookshelf-reader-api"
 description: ""
 keywords: []
 tags: []
-draft: true
+draft: false
 math: false
 toc: false
 ---

@@ -5,7 +5,7 @@ slug: "assistant"
 description: "A personal desktop assistant for Linux and Windows written purely in C++"
 keywords: []
 tags: []
-draft: true
+draft: false
 math: false
 toc: false
 ---
