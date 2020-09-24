@@ -2,7 +2,7 @@ baseURL = "https://lakshyakhatri.github.io/"
 languageCode = "en-us"
 title = "Lakshya Khatri"
 theme = "codex"
-defaultContentLanguage = "en"
+defaultContentLanguage = "en-us"
 enableEmoji = "true"
 
 copyright = "© {year}"
