@@ -3,3 +3,5 @@
 	path = public
 	url = https://github.com/LakshyaKhatri/lakshyakhatri.github.io.git
 	branch = master
+[submodule "bar1"]
+	branch = master
